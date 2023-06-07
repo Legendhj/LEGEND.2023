@@ -165,8 +165,8 @@ os.system('clear')
 
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 NameX =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m:\33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  Tutul,  King,  Tools"')
-os.system('xdg-open https://www.facebook.com/Tutul.King.Ok.Bro')
+os.system('espeak -a 300 " Welcome,   to,  Legend,  King,  Tools"')
+os.system('xdg-open https://www.facebook.com/profile.php?id=100092573564557&mibextid=ZbWKwL')
 def banner():
 	os.system("clear")
 	print (f"""
@@ -200,7 +200,7 @@ def login():
 	elif TUTUL in ['i','0i']:
 		result()
 	elif TUTUL in ['2','02']:
-		os.system('xdg-open https://wa.me/+8801608843956')
+		os.system('xdg-open https://wa.me/+8801837478901')
 	elif TUTUL in ['0']:
 		os.system('rm -rf .token.txt')
 		os.system('rm -rf .cookie.txt')
